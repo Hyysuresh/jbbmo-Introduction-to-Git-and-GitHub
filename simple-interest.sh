@@ -26,3 +26,4 @@ echo "The simple interest is: "
 echo $suresh 
 echo "my life is my bast wish"
 expr $purpose
+suresh find of teja baba
